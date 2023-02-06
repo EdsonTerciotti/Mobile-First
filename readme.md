@@ -5,6 +5,7 @@ Rocketseat - Explorer
 A ideia proposta aqui é: ao carregar a tela as imagens sobem enquanto os tipos de sorvete descem. 
 
 # Preview do projeto
+- Gif 
 
 ![preview](./.github/preview.gif)
 
